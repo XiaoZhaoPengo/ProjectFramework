@@ -30,41 +30,44 @@
 
 ## 文件结构说明
 
-tree
+```tree
 project/
-├── main.py # 主程序入口
-├── driver/ # ChromeDriver目录
-│ └── windows/ # Windows驱动
-├── case/ # 测试用例目录
-│ ├── web_demo/ # Web测试用例
-│ │ └── test_zzy_business.py # 业务测试类
-│ └── pageobj/ # 页面对象
-│ └── adminBusiness.py # 管理页面类
-├── database/ # 数据配置目录
-│ ├── caseYAML/ # 测试用例YAML配置
-│ │ └── test_zzy_business.yaml # 测试数据配置
-│ └── locatorYAML/ # 页面元素定位配置
-│ └── test_zzy_business.yaml # 元素定位配置
-├── config/ # 配置文件目录
-│ └── setting.yaml # 系统配置文件
-├── logs/ # 日志目录
-│ └── app.log # 应用日志文件
-└── LegalFile/ # 输出文件目录
-└── {订单号}{用户名}信息资料/ # 订单相关文件
+├── main.py                    # 主程序入口
+├── driver/                    # ChromeDriver目录
+│   └── windows/              # Windows驱动
+├── case/                      # 测试用例目录
+│   ├── web_demo/             # Web测试用例
+│   │   └── test_zzy_business.py  # 业务测试类
+│   └── pageobj/              # 页面对象
+│       └── adminBusiness.py  # 管理页面类
+├── database/                  # 数据配置目录
+│   ├── caseYAML/             # 测试用例YAML配置
+│   │   └── test_zzy_business.yaml  # 测试数据配置
+│   └── locatorYAML/          # 页面元素定位配置
+│       └── test_zzy_business.yaml  # 元素定位配置
+├── config/                    # 配置文件目录
+│   └── setting.yaml          # 系统配置文件
+├── logs/                      # 日志目录
+│   └── app.log               # 应用日志文件
+└── LegalFile/                # 输出文件目录
+    └── {订单号}{用户名}信息资料/  # 订单相关文件
+```
 
-
-
-
-### 目录说明：
+### 目录说明
 
 1. **main.py**: 程序主入口文件
 2. **driver/**: 存放ChromeDriver驱动文件
+   - **windows/**: Windows系统驱动文件
 3. **case/**: 测试相关代码
    - **web_demo/**: Web端测试用例
+     - **test_zzy_business.py**: 业务测试类
    - **pageobj/**: 页面对象模型
+     - **adminBusiness.py**: 管理页面类
 4. **database/**: 配置数据
    - **caseYAML/**: 测试用例数据配置
+     - **test_zzy_business.yaml**: 测试数据配置
    - **locatorYAML/**: 页面元素定位配置
+     - **test_zzy_business.yaml**: 元素定位配置
 5. **config/**: 系统配置文件
 6. **logs/**: 日志文件目录
 7. **LegalFile/**: 输出文件存储目录
