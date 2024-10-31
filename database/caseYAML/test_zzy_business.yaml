@@ -1,0 +1,13 @@
+- model: TestZzyBusiness
+- casename: test_business_go
+  precond: null
+  title: 测试租租鸭业务测试
+  testdata:
+    - user: 18271421xxx
+      code: 1234
+      num: 1015103728969591
+      orderNo: 1015103728969591
+    - user: 18271421xxx
+      code: 1234
+      num: 1011055218971097
+      orderNo: 1011055218971097

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/case/conftest.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/case/pageobj/adminBusiness.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/case/web_demo/test_zzy_business.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/common/app_base.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/common/common.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/common/db.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/common/driver_init.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/common/emails.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/common/message_notice.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/common/reda_data.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/common/web_base.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/database/locatorYAML/adminBusiness.yaml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dist/myapp/stderr.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/driver/linux" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/driver/mac" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/driver/windos" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/my_project.spec" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/output/report_allure" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/output/report_json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/output/report_screen" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/output/report_tmp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pytest.ini" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/requirements.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/run.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/zzyLogo.ico" charset="GBK" />
+  </component>
+</project>

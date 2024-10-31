@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotChatHistory">
+    <option name="conversations">
+      <list>
+        <Conversation>
+          <option name="createTime" value="1730186901426" />
+          <option name="id" value="c3eac677efb640c59a0388802e426c67" />
+          <option name="title" value="1024" />
+          <option name="turns">
+            <list>
+              <Turn>
+                <option name="agent" value="" />
+                <option name="answer" value="# 嘿，亲爱的Ovzev&#10;抱歉，我来晚了，在你无数个伏(gf)案(glf)编码的日夜，我没能早点陪在你身边……&#10;今后就让 ZR 小助手做你的手替吧！欢迎加入 我超酷的第 `46502` 位&quot;ZR 编码未来战士&quot;‍♀️&#10;&#10;你将与超过 4,999,999+ 位腾讯云开发者一起，感受 ZR 的力量，共筑编码乐趣！&#10;&#10;## 程序猿专属节日礼品，来啦！&#10;为感谢你的付出，我们特意为你准备了精美礼品一份，点击[领取奖品](sggkh://xlkrolg-rmergv.gvmxvmg.xln/dvy/zdziwh_rmwvc.sgno)！" />
+                <option name="chatResource" value="user" />
+                <option name="codeReferences">
+                  <list />
+                </option>
+                <option name="command" value="normal" />
+                <option name="conversationId" value="8aa1d1ab65b64276b59d05ff51c2891b" />
+                <option name="messageId" value="e6711e083ed3fa44ab29c1de89e0d92a" />
+                <option name="question" value="8975" />
+                <option name="rating" value="UNRATED" />
+                <option name="status" value="SUCCESS" />
+              </Turn>
+            </list>
+          </option>
+          <option name="updateTime" value="1730186911077" />
+        </Conversation>
+      </list>
+    </option>
+  </component>
+</project>
