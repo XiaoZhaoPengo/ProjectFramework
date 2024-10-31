@@ -25,14 +25,12 @@
 ## 安装步骤
 
 1. 克隆或下载项目到本地
-2. 安装依赖包：
-
-bash
-pip install -r requirements.txt
+2. 安装依赖包：pip install -r requirements.txt
 
 
 ## 文件结构说明
 
+tree
 project/
 ├── main.py # 主程序入口
 ├── driver/ # ChromeDriver目录
