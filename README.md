@@ -164,9 +164,11 @@ url: "http://dev.admin.zuzuya.cn" # 系统登录地址
 
 1. 检查日志文件：`logs/app.log`
 2. 确认所有依赖包已正确安装
-3. 验证Chrome浏览器版本
+3. 验证Chrome浏览器版本 先升级本地谷歌浏览器到最新版本 当前代码支持自动更新chromeDriver
 4. 测试网络连接
-5. 确保账务明细文件存在且格式正确
+5. 确保账务明细文件存在本地"C:\Users\Administrator\Desktop\账务明细.csv"且格式正确
+6. 如需更改setting文件的url 后正常运行 需要重新打包运行命令: pyinstaller myapp.spec 
+7.如果需要清理之前的构建文件，可以添加--clean选项：pyinstaller --clean myapp.spec
 
 ## 更新日志
 
