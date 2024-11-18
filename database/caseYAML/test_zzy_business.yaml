@@ -3,11 +3,11 @@
   precond: null
   title: 测试租租鸭业务测试
   testdata:
-    - user: 18271421xxx
+    - user: 182714212xx
       code: 1234
       num: 1015103728969591
-      orderNo: 1015103728969591
-    - user: 18271421xxx
+      orderNo: 182714212xx
+    - user: 182714212xx
       code: 1234
       num: 1011055218971097
-      orderNo: 1011055218971097
+      orderNo: 182714212xx

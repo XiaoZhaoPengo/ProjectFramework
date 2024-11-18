@@ -134,13 +134,13 @@ case/pageobj/adminBusiness.py 中的代码 pageobj中的代码是操作页面元
 
 setting.yaml是配置文件 修改url
 
-1. 运行程序：python main.py
+1. 项目代码内运行截图工具程序：python main.py
 
 2. 程序启动后的操作步骤：
 
    a. 点击"加载YAML"按钮加载配置
    
-   b. 在文本框中修改订单号(orderNo)和数量(num)
+   b. 在文本框中修改订单号(orderNo)和数量(num)  orderNo和num保持一致
    
    c. 点击"保存YAML"保存修改
    
@@ -150,7 +150,7 @@ setting.yaml是配置文件 修改url
 
 3. YAML配置示例:
 testdata:
-user: "admin" # 用户名
+user: "admin" # 用户名=后台登录的账号
 code: "123456" # 验证码
 num: "1015103728969591" # 订单号
 orderNo: "1015103728969591" # 订单号(与num保持一致)
